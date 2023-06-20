@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[--Database Connection successful--]]>
+    </line>
+    <line>
+      <![CDATA[--Browser chrome launched successfully--]]>
+    </line>
+    <line>
+      <![CDATA[--Login Successful--]]>
+    </line>
+    <line>
+      <![CDATA[--Signout successfull--]]>
+    </line>
+    <line>
+      <![CDATA[--browser closed successfull--]]>
+    </line>
+    <line>
+      <![CDATA[--Database close successfull--]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-16T15:29:24 IST" name="Suite" finished-at="2023-06-16T15:29:31 IST" duration-ms="7319">
+    <groups>
+    </groups>
+    <test started-at="2023-06-16T15:29:24 IST" name="Test" finished-at="2023-06-16T15:29:31 IST" duration-ms="7319">
+      <class name="com.Google.Testcases.GoogleLangauageSettingsTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.Google.Testcases.GoogleLangauageSettingsTest@73e9cf30]" started-at="2023-06-16T15:29:24 IST" name="bsConfig" finished-at="2023-06-16T15:29:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[--Database Connection successful--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig(java.lang.String)[pri:0, instance:com.Google.Testcases.GoogleLangauageSettingsTest@73e9cf30]" started-at="2023-06-16T15:29:24 IST" name="bcConfig" finished-at="2023-06-16T15:29:28 IST" duration-ms="4557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[--Browser chrome launched successfully--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:com.Google.Testcases.GoogleLangauageSettingsTest@73e9cf30]" started-at="2023-06-16T15:29:28 IST" name="bmConfig" finished-at="2023-06-16T15:29:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[--Login Successful--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="setTest()[pri:0, instance:com.Google.Testcases.GoogleLangauageSettingsTest@73e9cf30]" started-at="2023-06-16T15:29:28 IST" name="setTest" finished-at="2023-06-16T15:29:31 IST" duration-ms="2296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTest -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.Google.Testcases.GoogleLangauageSettingsTest@73e9cf30]" started-at="2023-06-16T15:29:31 IST" name="acConfig" finished-at="2023-06-16T15:29:31 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[--browser closed successfull--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:com.Google.Testcases.GoogleLangauageSettingsTest@73e9cf30]" started-at="2023-06-16T15:29:31 IST" name="amConfig" finished-at="2023-06-16T15:29:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[--Signout successfull--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:com.Google.Testcases.GoogleLangauageSettingsTest@73e9cf30]" started-at="2023-06-16T15:29:32 IST" name="asConfig" finished-at="2023-06-16T15:29:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[--Database close successfull--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- com.Google.Testcases.GoogleLangauageSettingsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

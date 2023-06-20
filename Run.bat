@@ -1,0 +1,2 @@
+cd C:\Users\VeeraVenkataSandhyaR\eclipse-workspace\TEAM_PINNACLE_FRAMEWORK_SCOPE_4
+mvn clean install
